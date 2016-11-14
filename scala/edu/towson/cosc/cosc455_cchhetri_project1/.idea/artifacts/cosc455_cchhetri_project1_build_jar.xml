@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="cosc455_cchhetri_project1-build:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cosc455_cchhetri_project1_build_jar</output-path>
+    <root id="root">
+      <element id="archive" name="cosc455_cchhetri_project1-build.jar">
+        <element id="module-output" name="cosc455_cchhetri_project1-build" />
+      </element>
+      <element id="library" level="module" name="SBT: sbt-and-plugins" module-name="cosc455_cchhetri_project1-build" />
+    </root>
+  </artifact>
+</component>
